@@ -31,4 +31,4 @@ Vagrant.configure("2") do |config|
   #     sudo apt-get install, mc -y
         ip addr
   SHELL
-end
+end 
